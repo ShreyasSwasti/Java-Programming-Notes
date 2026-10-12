@@ -43,5 +43,5 @@ Stay updated with **jobs**, **internships**, and **interview preparation materia
 ---
 
 Thank you for being a part of this journey! Your contribution—whether it’s starring the repo ⭐, sharing it with others, or submitting a pull request—helps us grow and supports the community of learners and developers. Let’s build something great together! 💪
-
+ plese contribute to this project it is begginer frindly
 ---
